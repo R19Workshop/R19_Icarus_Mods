@@ -1,0 +1,17 @@
+{
+  "mods": [
+    {
+      "name": "R19 Building Wind Immunity",
+      "author": "R19",
+      "version": "1.0",
+      "week": "251",
+      "compatibility": "all",
+      "description": "讓支援的建築結構免疫風力造成的結構傷害，同時保留其他適用傷害、建築穩定度與支撐機制。 / Prevents supported building structures from taking wind damage while preserving other applicable damage, stability, and structural support mechanics.",
+      "imageURL": "https://raw.githubusercontent.com/R19Workshop/R19_Icarus_Mods/main/R19_Building_Wind_Immunity.PNG",
+      "readmeURL": "https://raw.githubusercontent.com/R19Workshop/R19_Icarus_Mods/main/R19_Building_Wind_Immunity.txt",
+      "files": {
+        "exmodz": "https://github.com/R19Workshop/R19_Icarus_Mods/raw/main/R19_Building_Wind_Immunity.EXMODZ"
+      }
+    }
+  ]
+}
