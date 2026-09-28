@@ -1,0 +1,8 @@
+R19 Building Wind Immunity
+Designed for players who enjoy building and maintaining long-term bases.
+This mod prevents supported building structures from taking structural damage caused by wind, reducing the repetitive repair work associated with storms.
+This is not an invincibility mod.
+Buildings remain vulnerable to other applicable sources of damage, and the normal building stability and structural support systems remain in effect. Structures that are poorly supported or exceed their structural limits can still become unstable and collapse.
+In short:
+The mod removes repetitive wind-damage maintenance without removing the survival and structural aspects of building.
+Supported building types may be expanded or adjusted as new construction materials are introduced in future ICARUS updates.
